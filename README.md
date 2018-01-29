@@ -15,6 +15,9 @@
 
 # [PlusTM](https://t.me/PlusTM)
 
-`برای ران کردن سورس به صورت دستی 
-screen ./run.sh
+`برای ران کردن سورس به صورت دستی`
 
+**screen ./run.sh**
+
+باتشکر از :
+[MrBlack](t.me/MrBlack1) | [AlphaCyber](t.me/AlphaCyber) | [Yones](t.me/Anony)
