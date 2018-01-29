@@ -2,7 +2,7 @@
 
 # آموزش نصب سورس
 
-**git clone https://github.com/PlusTM/UltraPlus
+__git clone https://github.com/PlusTM/UltraPlus
 
 **cd UltraPlus
 
