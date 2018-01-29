@@ -2,13 +2,13 @@
 
 # آموزش نصب سورس
 
-__git clone https://github.com/PlusTM/UltraPlus
+**git clone https://github.com/PlusTM/UltraPlus**
 
-**cd UltraPlus
+**cd UltraPlus**
 
-**chmod +x run.sh
+**chmod +x run.sh**
 
-**python setup.pyc
+**python setup.pyc**
 
 
 # فیلم آموزشی نصب در کانال قرار گرفته است 
